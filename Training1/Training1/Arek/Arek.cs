@@ -4,19 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Training1
+namespace Training1.Arek
 {
-    class Program
+    public class Arek
     {
-        
-
-        static void Main(string[] args)
+        public void Hello()
         {
-
-           
+            Console.WriteLine("Witam");
+            Console.ReadLine();
         }
-        
-
-        
     }
 }

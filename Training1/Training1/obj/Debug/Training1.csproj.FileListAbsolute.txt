@@ -1,1 +1,7 @@
 D:\GitHub\Training1\Training1\bin\Debug\Training1.exe.config
+C:\Users\Aro\Documents\GitHub\Training1\Training1\bin\Debug\Training1.exe.config
+C:\Users\Aro\Documents\GitHub\Training1\Training1\bin\Debug\Training1.exe
+C:\Users\Aro\Documents\GitHub\Training1\Training1\bin\Debug\Training1.pdb
+C:\Users\Aro\Documents\GitHub\Training1\Training1\obj\Debug\Training1.csprojResolveAssemblyReference.cache
+C:\Users\Aro\Documents\GitHub\Training1\Training1\obj\Debug\Training1.exe
+C:\Users\Aro\Documents\GitHub\Training1\Training1\obj\Debug\Training1.pdb

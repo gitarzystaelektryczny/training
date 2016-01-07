@@ -10,6 +10,7 @@ namespace Training1.Piotrek
             return "Hello Word!";
         }
 
+       
         
     }
 }
