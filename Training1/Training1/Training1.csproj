@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arek\Arek.cs" />
+    <Compile Include="Piotrek\IPiotrek.cs" />
     <Compile Include="Piotrek\Piotrek.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
